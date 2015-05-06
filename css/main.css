@@ -11,7 +11,8 @@
 }
 
 .jumbotron {
-  background-image:url('http://goo.gl/04j7Nn');
+  background-image:url('https://lh3.googleusercontent.com/-LpH5EpNWKec/VAuYDRifCXI/AAAAAAAAHVA/Zzt3tBdrmAI/w1278-h959-no/20140817_185453.jpg');
+  
   height: 500px;
   background-repeat: no-repeat;
   background-size: cover;
@@ -46,4 +47,9 @@
 
 .learn-more a {
   color: #00b0ff;
+}
+
+.neighboorhood-guides{
+    font-size: 15px;
+    margin-bottom 13px;
 }
